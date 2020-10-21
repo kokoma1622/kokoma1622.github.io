@@ -39,9 +39,9 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark"
   utterances:
-    theme                : # "github-light" (default), "github-dark"
+    theme                : "github-dark"
     issue_term           : # "pathname" (default)
   staticman:
     branch               : # "master"
@@ -95,19 +95,19 @@ analytics:
 author:
   name             : "Park Jungwon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "-WANTED-"
+  location         : "Pohang, Seoul"
   email            : "kokoma@kakao.com"
   links:
     - label: "Email"
-      icon: "kokoma@kakao.com"
-      # url: "mailto:your.name@email.com"
+      #icon: "kokoma@kakao.com"
+        url: "kokoma@kakao.com"
     - label: "GitHub"
-      icon: "kokoma1622-github"
-      # url: "https://github.com/"
+      #icon: "kokoma1622-github"
+        url: "https://github.com/kokoma1622"
     - label: "Instagram"
-      icon: "kokomajungwon-instagram"
-      # url: "https://instagram.com/"
+      #icon: "kokomajungwon-instagram"
+        url: "https://instagram.com/kokomajungwon"
 
 # Site Footer
 footer:
