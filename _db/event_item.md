@@ -1,6 +1,6 @@
 ---
 title: "EventItem"
-date: 2020-10-22 00:55:55 -0400
+date: 2020-10-22 01:07:41 -0400
 categories: sql, structure
 ---
 
