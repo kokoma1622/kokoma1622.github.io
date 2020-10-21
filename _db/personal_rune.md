@@ -1,6 +1,6 @@
 ---
 title: "PersonalRune"
-date: 2020-10-21 21:44:21 -0400
+date: 2020-10-21 22:58:19 -0400
 categories: sql, structure
 ---
 
