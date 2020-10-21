@@ -277,8 +277,8 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
-      share: False
+      comments: true
+      share: false
       related: true
   
   # _db
@@ -288,5 +288,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      share: false
+      comments: false
 
 theme: jekyll-theme-slate
