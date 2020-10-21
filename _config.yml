@@ -100,13 +100,13 @@ author:
   email            : "kokoma@kakao.com"
   links:
     - label: "Email"
-      #icon: "kokoma@kakao.com"
+       icon: #"kokoma@kakao.com"
         url: "kokoma@kakao.com"
     - label: "GitHub"
-      #icon: "kokoma1622-github"
+       icon: #"kokoma1622-github"
         url: "https://github.com/kokoma1622"
     - label: "Instagram"
-      #icon: "kokomajungwon-instagram"
+       icon: #"kokomajungwon-instagram"
         url: "https://instagram.com/kokomajungwon"
 
 # Site Footer
