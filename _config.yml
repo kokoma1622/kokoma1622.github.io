@@ -280,5 +280,13 @@ defaults:
       comments: # true
       share: False
       related: true
+  
+  # _db
+  - scope:
+      path: "_db"
+      type: db
+    values:
+      layout: single
+      author_profile: true
 
 theme: jekyll-theme-slate
