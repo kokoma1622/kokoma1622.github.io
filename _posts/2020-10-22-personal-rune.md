@@ -1,5 +1,5 @@
 ---
-title: "PersonalRune"
+title: "[DB Table] Personal Rune"
 date: 2020-10-21 22:58:19 -0400
 categories: sql, structure
 ---
