@@ -1,5 +1,5 @@
 ---
-title: "Welcome to New Blog!"
+title: "[just chatting] Welcome to New Blog!"
 date: 2020-07-29 22:18:28 -0400
 categories: blog open
 ---
