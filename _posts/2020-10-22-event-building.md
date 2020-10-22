@@ -1,5 +1,5 @@
 ---
-title: "EventBuilding"
+title: "[DB Table] Event Building"
 date: 2020-10-22 00:58:37 -0400
 categories: sql, structure
 ---
