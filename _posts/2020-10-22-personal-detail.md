@@ -16,4 +16,4 @@ cs : cs를 얼마나 먹었느냐 size of 4. 미니언, 아군정글, 적정글,
 
 visions : 시야 관련 size of 4. 시야 점수, 핑와 구매, 와드 설치, 와드 파괴
 
-firsts : 퍼블, 퍼타
+firsts : 퍼블, 포블
