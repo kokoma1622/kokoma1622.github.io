@@ -1,5 +1,5 @@
 ---
-title: "MinuteTeam"
+title: "[DB Table] Minute Team"
 date: 2020-10-22 00:54:10 -0400
 categories: sql, structure
 ---
