@@ -1,5 +1,5 @@
 ---
-title: "EventItem"
+title: "[DB Table] Event Item"
 date: 2020-10-22 01:07:41 -0400
 categories: sql, structure
 ---
