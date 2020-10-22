@@ -1,5 +1,5 @@
 ---
-title: "EventKill"
+title: "[DB Table] Event Kill"
 date: 2020-10-22 00:55:55 -0400
 categories: sql, structure
 ---
