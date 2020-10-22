@@ -1,5 +1,5 @@
 ---
-title: "GameSummary"
+title: "[DB Table] Game Summary"
 date: 2020-10-21 21:44:21 -0400
 categories: sql, structure
 ---
