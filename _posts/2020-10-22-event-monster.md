@@ -1,5 +1,5 @@
 ---
-title: "EventMonster"
+title: "[DB Table] Event Monster"
 date: 2020-10-22 01:01:01 -0400
 categories: sql, structure
 ---
