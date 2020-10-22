@@ -1,5 +1,5 @@
 ---
-title: "PersonalDetail"
+title: "[DB Table] Personal Detail"
 date: 2020-10-21 23:35:48 -0400
 categories: sql, structure
 ---
