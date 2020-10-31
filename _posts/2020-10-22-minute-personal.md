@@ -1,7 +1,7 @@
 ---
-title: "[DB Table] Minute Personal"
+title: "[DB] Minute Personal"
 date: 2020-10-22 00:50:05 -0400
-categories: sql, structure
+categories: DB
 ---
 
 Table Minute Personal
@@ -39,3 +39,5 @@ item undo를 처리할 때 골치아프게 됨.
 
 
 아이템 관련 작업들은 11시즌 들어가면서 아이템 개편으로 대대적으로 손봐야할 예정 ㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜ
+
+keywords : sql, structure
