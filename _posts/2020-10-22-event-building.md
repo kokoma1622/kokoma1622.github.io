@@ -1,6 +1,7 @@
 ---
 title: "[DB] Event Building"
 date: 2020-10-22 00:58:37 -0400
+tags: [sql, structure]
 categories: DB
 ---
 
@@ -15,5 +16,3 @@ team : 깨진 건물의 팀.
 lane : 깨진 건물의 라인. TOP/MID/BOTTOM
 
 building : 깨진 건물의 종류. 억제기라면 INHIBITOR, 포탑이라면 위치에 따라 TURRET_ OUTER/INNER/BASE/NEXUS
-
-keywords : sql, structure
