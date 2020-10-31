@@ -1,6 +1,6 @@
 ---
 title: "[ML] Model Result2"
-date: 2020-10-31 17:52:19 -0400
+date: 2020-10-31 18:05:06 -0400
 tags : [Machine Learning, Model Result]
 categories: ML
 ---
