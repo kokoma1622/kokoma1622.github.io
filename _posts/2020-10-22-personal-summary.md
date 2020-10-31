@@ -1,7 +1,7 @@
 ---
-title: "[DB Table] Personal Summary"
+title: "[DB] Personal Summary"
 date: 2020-10-21 21:44:21 -0400
-categories: sql, structure
+categories: DB
 ---
 
 Table Personal Summary
@@ -36,3 +36,5 @@ gold : 총 골드
 items : 가지고 있던 item id list. list의 마지막은 장신구
 
 skilltree : 찍은 스킬을 순서대로 qwer로 이루어진 string 형태로 표현. 카직스나 카이사 같이 스킬 진화하는 경우는 무시하고 레벨업을 통한 스킬포인트만 기록.
+
+keywords : sql, structure
