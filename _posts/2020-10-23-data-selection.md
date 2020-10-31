@@ -1,6 +1,7 @@
 ---
 title: "[ML] Data Selection"
 date: 2020-10-23 18:30:33 -0400
+tags: [machine learning, data preprocessing]
 categories: ML
 ---
 
@@ -40,5 +41,3 @@ dataset을 다 넣은 후, 순서를 randomize하여 저장한다.
 이 때 x와 y(입력과 정답)의 순서쌍이 흐트러지면 안 되기 때문에, 단순 np.shuffle을 쓰기보다, 다른 방식을 사용하였다.
 RAM 제한이 딱히 없다면 shuffle에 seed를 써도 상관은 없긴 하고,
 dataset 길이에 맞게 np.random.permutation으로 index를 randomize하여 재배치하는 것으로 순서를 섞었다.
-
-keywords : machine learning, data preprocessing
