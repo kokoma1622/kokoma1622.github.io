@@ -1,6 +1,7 @@
 ---
 title: "[DB] Event Monster"
 date: 2020-10-22 01:01:01 -0400
+tags: [sql, structure]
 categories: DB
 ---
 
@@ -14,5 +15,3 @@ userid : 용/바론/전령을 처치한 유저. 전령이 퇴근해도 -1처리�
 team : 처치한 팀
 
 monster : 바론 BARON 전령 HERALD 용 DRAGON_(종류)
-
-keywords : sql, structure
