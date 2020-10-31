@@ -1,6 +1,7 @@
 ---
 title: "[Diary] Welcome to New Blog!"
 date: 2020-07-29 22:18:28 -0400
+tags: [blog]
 categories: diary
 ---
 
