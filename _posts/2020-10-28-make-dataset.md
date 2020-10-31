@@ -1,7 +1,7 @@
 ---
 title: "[ML] Make Dataset"
 date: 2020-10-28 20:55:33 -0400
-categories: MachineLearning,DataPreprocessing
+categories: ML
 ---
 
 수치 데이터를 막대그래프로 변형하여 이미지로 만들기로 정하였다.
@@ -35,3 +35,5 @@ random dictionary를 같이 저장하는 데이터셋을 만들었다.
 예를 들어 3분 단계의 cs가 밀리는 현상은 단순 라인푸쉬가 밀려 빅웨이브를 받아먹는 타이밍이라 차이가 났을 가능성도 있다.
 분 데이터 비대칭 문제와 극초반 수치 문제는 경기의 1/3에 해당하는 시간은 제외하고 분 데이터를 추출하는 등으로 간접적으로 조정할 수는 있지만,
 일단 조정하지 않고 데이터셋을 만들어 학습에 사용하였다.
+
+keywords : machine learning, data preprocessing
