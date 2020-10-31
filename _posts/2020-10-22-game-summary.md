@@ -1,6 +1,7 @@
 ---
 title: "[DB] Game Summary"
 date: 2020-10-21 21:44:21 -0400
+tags: [sql, structure]
 categories: DB
 ---
 
@@ -19,5 +20,3 @@ tier  : 해당 게임 유저들의 평균 티어. 다2까지는 1점씩 주고, 
 creation : 해당 게임이 생성된 시간. riot-api에 따르면 밴픽이 끝난 후 게임 로딩이 시작된 시간이라 함. timestamp * 1000 데이터로 KST 변환을 통해 한국 시각으로 변환 가능.
 
 duration : 해당 게임의 플레이 타임을 초 단위로 표현.
-
-keywords : sql, structure
