@@ -1,6 +1,7 @@
 ---
 title: "[DB] Team Summary"
 date: 2020-10-21 23:47:01 -0400
+tags: [sql, structure]
 categories: DB
 ---
 
@@ -19,5 +20,3 @@ firsts : 해당 팀의 퍼스트 ** 여부 size of 6. 킬/타워/억제기/용/�
 totals : 해당 팀의 전체 ** 여부 size of 6. 킬/타워/억제기/용/바론/전령
 
 dragons : 해당 팀이 먹은 용, size of 전체 용. 먹은 용의 종류를 list의 원소로.
-
-keywords : sql, structure
