@@ -1,7 +1,7 @@
 ---
-title: "[DB Table] Personal Detail"
+title: "[DB] Personal Detail"
 date: 2020-10-21 23:35:48 -0400
-categories: sql, structure
+categories: DB
 ---
 
 Table Personal Detail
@@ -17,3 +17,5 @@ cs : cs를 얼마나 먹었느냐 size of 4. 미니언, 아군정글, 적정글,
 visions : 시야 관련 size of 4. 시야 점수, 핑와 구매, 와드 설치, 와드 파괴
 
 firsts : 퍼블, 포블
+
+keywords : sql, structure
