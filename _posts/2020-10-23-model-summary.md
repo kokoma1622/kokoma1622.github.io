@@ -1,6 +1,7 @@
 ---
 title: "[ML] Model summary"
 date: 2020-10-23 00:18:12 -0400
+tags: [machine learning, CNN, lol]
 categories: ML
 ---
 
@@ -15,5 +16,3 @@ categories: ML
 승패 예측 모델이니 결과는 당연히 그 게임의 승패.
 
 모델 요약은 이 정도로 하고, data preprocessing 과정은 다른 글로 설명하겠다.
-
-keywords : machine learning, CNN, lol
